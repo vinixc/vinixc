@@ -7,3 +7,26 @@
 
 
 ### About me
+
+Java web developer and computer science student. Passionate about new technologies and problem solving.
+
+You can find some of my projects on GitHub.
+
+Are we going to develop something fantastic together?
+
+### Programming Languages and Technologies:
+[![Java Badge](https://img.shields.io/badge/-Java-green?style=for-the-badge&logo=Java&logoColor=black)](https://www.java.com/pt-BR/download/help/java8.html)
+[![Spring Badge](https://img.shields.io/badge/-Spring_Framework-green?style=for-the-badge&logo=Spring&logoColor=white)](https://spring.io/projects/spring-framework)
+[![Spring Badge](https://img.shields.io/badge/-Spring_Boot-green?style=for-the-badge&logo=Spring&logoColor=white)](https://spring.io/projects/spring-framework)
+[![Angular Badge](https://img.shields.io/badge/-Angular-red?style=for-the-badge&logo=Angular&logoColor=white)](https://angular.io/)
+[![Eclipse-IDE Badge](https://img.shields.io/badge/-Eclipse-black?style=for-the-badge&logo=Eclipse-IDE&logoColor=white)](https://www.eclipse.org/downloads/)
+[![Intellij-IDE Badge](https://img.shields.io/badge/-Intellij-black?style=for-the-badge&logo=Intellij-IDE&logoColor=white)](https://www.jetbrains.com/pt-br/idea/)
+[![PostgreSQL Badge](https://img.shields.io/badge/-PostgreSQL-blue?style=for-the-badge&logo=PostgreSQL&logoColor=white)](https://www.postgresql.org/)
+[![Apache-Maven Badge](https://img.shields.io/badge/-Maven-red?style=for-the-badge&logo=Apache-Maven&logoColor=white)](https://maven.apache.org/)
+
+
+
+
+
+
+
