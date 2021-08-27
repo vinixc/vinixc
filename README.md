@@ -26,7 +26,7 @@ Are we going to develop something fantastic together?
 [![HTML5 Badge](https://img.shields.io/badge/-HTML-orange?style=for-the-badge&logo=HTML5&logoColor=white)](https://developer.mozilla.org/pt-BR/docs/Web/HTML/HTML5)
 [![CSS3 Badge](https://img.shields.io/badge/-CSS-blue?style=for-the-badge&logo=CSS3&logoColor=white)](https://www.w3schools.com/css/)
 [![JavaScript Badge](https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=JavaScript&logoColor=black)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
-[![TypeScript Badge](https://img.shields.io/badge/-TypeScript-blue?style=for-the-badge&logo=TypeScript&logoColor=#3178C6)](https://www.typescriptlang.org/)
+[![TypeScript Badge](https://img.shields.io/badge/-TypeScript-blue?style=for-the-badge&logo=TypeScript&logoColor=white)](https://www.typescriptlang.org/)
 [![jQuery Badge](https://img.shields.io/badge/-jQuery-blue?style=for-the-badge&logo=jQuery&logoColor=white)](https://jquery.com/)
 
 [![PostgreSQL Badge](https://img.shields.io/badge/-PostgreSQL-blue?style=for-the-badge&logo=PostgreSQL&logoColor=white)](https://www.postgresql.org/)
