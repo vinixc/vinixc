@@ -6,13 +6,17 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail_vinicius.tecbcc@gmail.com-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vinicius.tecbcc@gmail.com)](mailto:vinicius.tecbcc@gmail.com)
 
 
-### About me
+### About me 
 
-Java web developer and computer science student. Passionate about new technologies and problem solving.
+Java web developer with a bachelor's degree in computer science.
+
+Pursuing a postgraduate course in MBA Fullstack at Faculdade Impacta
+
+Passionate about new technologies and problem solving.
 
 You can find some of my projects on GitHub.
 
-Are we going to develop something fantastic together?
+Shall we develop something fantastic together?
 
 ### Programming Languages and Technologies:
 [![Java Badge](https://img.shields.io/badge/-Java-green?style=for-the-badge&logo=Java&logoColor=black)](https://www.java.com/pt-BR/download/help/java8.html)
